@@ -2,11 +2,13 @@
 
 This is a simple blog API built with FastAPI and SQLAlchemy, using SQLite as the database. It allows you to perform CRUD operations on blog posts, including managing tags for each post.
 
+## Source
+[Roadmap.sh](https://roadmap.sh/projects/blogging-platform-api)
+
 ## Features
 
 - **Create, Read, Update, Delete (CRUD) operations for blog posts.**
-- **Tagging system for posts (tags are stored as a comma-separated string in the database and handled as lists in the API).
-**
+- **Tagging system for posts (tags are stored as a comma-separated string in the database and handled as lists in the API).**
 - **Uses Pydantic for data validation and serialization.**
 - **SQLite database for easy setup.**
 
